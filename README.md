@@ -1,4 +1,4 @@
-# MIPS-32-pe-biti
+# MIPS-pe-32-biti
 Acest proiect implementează un procesor MIPS cu un **singur ciclu** de execuție. Toate etapele instrucțiunilor sunt realizate într-un singur ciclu de ceas. Procesorul a fost testat și validat pe placă în cadrul laboratorului.
 
 ## Componente Funcționale
